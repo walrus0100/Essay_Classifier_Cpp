@@ -1,7 +1,7 @@
 Essay Classifier in C++
-Overview
 
-This is an essay classifier program using a perceptron in C++. The program takes in essays as inputs and generates a heat map to classify each essay based on common words. I used this program to find essays that were writen with GPT.
+
+This is an essay classifier program using a perceptron in C++ and Debian . The program takes in essays as inputs and generates a heat map to classify each essay based on common words. I used this program to find essays that were writen with GPT. 
 
 
 
